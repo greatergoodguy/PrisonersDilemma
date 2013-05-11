@@ -1,0 +1,9 @@
+This is the order the skybox should be in
+bot/top
+
+left
+front
+right
+back
+
+
